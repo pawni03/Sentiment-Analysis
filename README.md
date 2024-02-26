@@ -13,5 +13,5 @@ The Sentiment Analysis of Customer Hotel Reviews project is implemented to analy
 * Libraries: pandas, numpy, nltk, SentimentIntensityAnalyzer, vader_lexicon, etc.
 
 **Data Sources**
-Customer reviews from online travel platforms (e.g., TripAdvisor, Booking.com, Expedia)
-Publicly available datasets containing hotel reviews (e.g., Kaggle datasets)
+* Customer reviews from online travel platforms (e.g., TripAdvisor, Booking.com, Expedia)
+* Publicly available datasets containing hotel reviews (e.g., Kaggle datasets)
